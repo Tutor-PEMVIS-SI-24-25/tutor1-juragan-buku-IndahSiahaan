@@ -30,9 +30,9 @@ Tugas berikutnya, kembangkan sebuah solusi sederhana yang secara berturut-turut 
 
 **Input**:
 ```bash
-978-0201498400
-Data Structures and Algorithm Analysis in C
-Mark Allen Weiss
+978-0201498400 
+Data Structures and Algorithm Analysis in C 
+Mark Allen Weiss 
 1996
 Pearson
 yes
